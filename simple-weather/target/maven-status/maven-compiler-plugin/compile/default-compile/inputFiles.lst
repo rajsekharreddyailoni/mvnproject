@@ -1,0 +1,5 @@
+/home/centos/mvnex-examples/mvnexbook-examples-1.0/ch-custom/simple-weather/src/main/java/org/sonatype/mavenbook/weather/Main.java
+/home/centos/mvnex-examples/mvnexbook-examples-1.0/ch-custom/simple-weather/src/main/java/org/sonatype/mavenbook/weather/YahooParser.java
+/home/centos/mvnex-examples/mvnexbook-examples-1.0/ch-custom/simple-weather/src/main/java/org/sonatype/mavenbook/weather/YahooRetriever.java
+/home/centos/mvnex-examples/mvnexbook-examples-1.0/ch-custom/simple-weather/src/main/java/org/sonatype/mavenbook/weather/Weather.java
+/home/centos/mvnex-examples/mvnexbook-examples-1.0/ch-custom/simple-weather/src/main/java/org/sonatype/mavenbook/weather/WeatherFormatter.java
